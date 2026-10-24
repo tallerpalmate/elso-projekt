@@ -6,6 +6,6 @@ def fuggvenyek3(szam1, szam2):
     eredmeny = szam1 + szam2
     print("Ez egy harmadik sor eredménye: " + str(szam1 + szam2))
 
-
-
+def fuggvenyek4():
+    return "ez egy visszatérési érték."
 
