@@ -1,0 +1,1 @@
+Print("Ez egy python program.")
