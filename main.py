@@ -1,1 +1,1 @@
-Print("Sziasztok!")
+Print("Ez egy python program.")
